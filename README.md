@@ -1,4 +1,3 @@
-# Bejeweled
-Реализация Bejeweled на JavaScript
+Реализация на JavaScript
 
 ![Screen 1](images/welcome.png)
